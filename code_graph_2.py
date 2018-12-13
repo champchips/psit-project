@@ -18,8 +18,9 @@ with open('database_for_alcohol.csv', 'r') as csv_file:
     for i in range(len(line_3)):
         if line_3[i] == 0:
             line_3[i] = None
-chart = pygal.Bar(margin=50)
-chart.x_labels = u'αβγδ'
-chart.add('line 1', line_2)
-chart.add('line 2', line_3)
-chart.render('eiei.svg')
+line_chart_2 = pygal.Line()
+line_chart_2.title = 'Alcohol expenditure as a percentage of total expenditure and income in 2543-2556'
+line_chart_2.x_labels = header
+line_chart_2.add('"%"of total expenditure', line_2)
+line_chart_2.add('"%"of income', line_3)
+line_chart_2.render_to_file('graph_2.svg')
