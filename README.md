@@ -11,6 +11,5 @@
 นาย นนททรัพย์ เซี่ยงฉิน 61070095 || Github : https://github.com/jamesmhee
 
 นาย นภจร หยงสตาร์ 61070096 || Github : https://github.com/Napajorninwza
-
-# read more : 
-&nbsp;&nbsp;<a href="https://medium.com/@jamesnontasab/problem-solving-in-information-technology-project-66e9b4ddad0d?fbclid=IwAR20rIlNkNUzF9Z3RGhBG9nvnp5Q8fEJUSNZpCfar5fZxH7lCg3Atl9I0T0"><h3> ผลการดำเนินการ (PROJECT SITE) </h3></a>
+# read more :
+&nbsp;&nbsp;<a href="https://medium.com/@jamesnontasab/problem-solving-in-information-technology-project-66e9b4ddad0d?fbclid=IwAR20rIlNkNUzF9Z3RGhBG9nvnp5Q8fEJUSNZpCfar5fZxH7lCg3Atl9I0T0"><h3> PROJECT SITE </h3></a>
