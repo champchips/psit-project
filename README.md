@@ -11,4 +11,4 @@
 <th><p align="center">นาย นนททรัพย์ เซี่ยงฉิน 61070095 || Github : https://github.com/jamesmhee<br /></p></th> 
 <th><p align="center">นาย นภจร หยงสตาร์ 61070096 || Github : https://github.com/Napajorninwza<br /></p></th>
 <h1>read more :</h1><br />
-&nbsp;&nbsp; <a href="https://medium.com/@jamesnontasab/problem-solving-in-information-technology-project-66e9b4ddad0d?fbclid=IwAR20rIlNkNUzF9Z3RGhBG9nvnp5Q8fEJUSNZpCfar5fZxH7lCg3Atl9I0T0"> PROJECT SITE </a><br />
+&nbsp;&nbsp; <a href="https://it61070095.000webhostapp.com/?fbclid=IwAR2epUpgKNp04wj_-7iQdDBHmM7K6ifXY_3Xs8Ue5AKM4tFoEM1Rz5Fsnqw"> PROJECT SITE </a><br />
